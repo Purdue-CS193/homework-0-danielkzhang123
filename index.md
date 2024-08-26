@@ -17,7 +17,7 @@ Syntax highlighted code block
 #### Header 4
 - Bulleted
 - List
-- Hopefully
+
 
 1. Numbered
 2. List
